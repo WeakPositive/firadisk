@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /buildozer/sitemap_index.xml
+Sitemap: /firadisk/sitemap_index.xml
